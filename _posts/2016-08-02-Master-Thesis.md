@@ -13,4 +13,4 @@ Today I've finished the work on my Master Thesis. It is analysing how far a comp
 collaborative work system based on peer-to-peer communication and Semantic Web technologies 
 can improve the efficiency and effectivity of e-commerce fraud investigations within an inter-institutional team.
 
-You can access it ![here](<https://github.com/appelgriebsch/master-thesis/raw/master/MasterThesis.pdf>)
+You can access it [here](https://github.com/appelgriebsch/master-thesis/raw/master/MasterThesis.pdf)
