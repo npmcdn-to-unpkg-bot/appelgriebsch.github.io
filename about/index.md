@@ -16,6 +16,6 @@ Just some short facts about me:
 * graduating from high school in 1996
 * apprenticeship industrial clerk until 1999
 * working as software developer at Wincor Nixdorf International GmbH since 1999
-* working as industrial researcher in Corporate Research & Innovation department of Wincor Nixdorf since 2012
+* working as industrial researcher in Corporate Research & Innovation department of Wincor Nixdorf (now Diebold Nixdorf) since 2012
 * part-time study [B.Sc. Business Computer Science](http://fhdw.de/b.sc.-wirtschaftsinformatik-berufsbegleitend.aspx), final grade: 1,9
-* part-time study [M.Sc. Web Science](http://webscience.fh-koeln.de/live/) since 03/2014 
+* part-time study [M.Sc. Web Science](http://webscience.fh-koeln.de/live/), final grade: 1,4 
