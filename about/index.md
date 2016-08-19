@@ -10,10 +10,10 @@ image:
   feature: HTML5_sticker.png
 ---
 
-<div class="github-widget" style="float:right;" data-username="appelgriebsch"></div>
+<div class="github-widget" data-username="appelgriebsch"></div>
 <script src="https://npmcdn.com/github-card@1.2.1/dist/widget.js"></script>
 
-Just some short facts about me:
+Some additional short facts about me:
 
 * born in Berlin in 1976
 * graduating from high school in 1996
