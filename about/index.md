@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="github-widget" data-username="appelgriebsch"></div>
-<script src="https://npmcdn.com/github-card@1.2.1/dist/widget.js"></script>
+<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
 
 Some additional short facts about me:
 
